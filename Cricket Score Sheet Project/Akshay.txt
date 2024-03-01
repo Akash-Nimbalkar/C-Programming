@@ -1,0 +1,27 @@
+Date: 26/04/2022
+Time: 1 PM
+Venue : Pune
+				Match was between MI Vs CSK
+CSK won the toss
+CSK choose to bat first
+
+					** Final Scorecard **
+
+
+Batter's name	Runs	Balls	SR
+
+a				34		20		170.00
+b				2		10		20.00
+c				7		10		70.00
+d				33		20		165.00
+e				32		25		128.00
+f				5		5		100.00
+g				10		10		100.00
+f				15		10		150.00
+g				3		2		150.00
+h				4		4		100.00
+i				6		4		150.00
+
+Team CSK scored 151 runs
+Team MI scored 151 runs
+				The match is drawn

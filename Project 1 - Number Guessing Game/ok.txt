@@ -1,0 +1,29 @@
+Date: 
+12/2/2022
+Time:
+2 PM
+Venue: 
+Pune
+				Match was between MI Vs CSK
+CSK won the toss
+CSK choose to bowl first
+
+					** Final Scorecard **
+
+Bowler's name	Overs	Runs	Wickets	Economy
+
+qwe				1			4			0		4.00
+asd				1			3			1		3.00
+qwe				4			20			2		5.00
+zxc				2			8			0		4.00
+pqr				3			7			1		2.33
+mnb				2			5			1		2.50
+jkl				3			2			0		0.67
+lkj				2			1			0		0.50
+vcx				1			0			0		0.00
+mji				2			10			1		5.00
+msd				1			1			1		1.00
+
+Runs scored by team CSK are 61 in 22.0 overs
+The runs scored by team MI are 63 in 20.0 overs
+			Heyy...!!Team MI won the match!!... 

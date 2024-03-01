@@ -1,0 +1,27 @@
+Date: 10/06/2022
+Time: 10 AM
+Venue : Pune
+				Match was between India Vs Pakistan
+India won the toss
+India choose to bat first
+
+					** Final Scorecard **
+
+
+Batter's name	Runs	Balls	SR
+
+Sachin				20		22		90.91
+Virat				20		25		80.00
+Mahi				15		20		75.00
+Raju				15		18		83.33
+Sanju				12		10		120.00
+Manoj				17		20		85.00
+Rajesh				19		25		76.00
+Ganesh				22		28		78.57
+Mahesh				23		26		88.46
+Karan				10		15		66.67
+Samarth				12		17		70.59
+
+Team India scored 185 runs
+Team Pakistan scored 150 runs
+			Heyy...!!Team India won the match!!... 

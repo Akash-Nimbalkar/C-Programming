@@ -1,0 +1,21 @@
+Date: 12/2/2004
+Time: 2 PM
+Venue: Pune
+
+				Match was between Satara Vs Mumbai
+Satara won the toss
+Satara choose to bat first
+
+					Team Satara's batting scorecard !!
+Name			Runs		Balls		Strike rate
+
+aksh		0	200	0.00
+raju		0	150	0.00
+manu		0	133	0.00
+ganu		0	126	0.00
+
+Team Satara scored 69 runs
+Team Mumbai scored 0 runs
+
+Final Verdict :
+			Heyy...!!Team Satara won the match!!... 

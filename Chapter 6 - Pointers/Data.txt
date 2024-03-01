@@ -1,0 +1,26 @@
+Date: 12/2/2003
+Time: 2 PM
+Venue: Satara
+
+				Match was between CSK Vs MI
+CSK won the toss
+CSK choose to bat first
+
+					Team CSK's batting scorecard !!
+Name of batsman	Runs	Balls	Strike Rate
+
+asd		0	120	0.00
+msd		0	33	0.00
+wer		0	33	0.00
+mjh		0	80	0.00
+aqw		0	75	0.00
+mlo		0	113	0.00
+pol		0	71	0.00
+mgh		0	75	0.00
+mdh		0	200	0.00
+ok		0	600	0.00
+std		0	33	0.00
+
+Team CSK scored 108 runs
+Team  scored 120 runs
+			Heyy...!!Team  won the match!!... 
